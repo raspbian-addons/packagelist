@@ -2,7 +2,7 @@
 
 This area contains a description of each application in the repository.
 
-All the packages can be found/downloaded [here](https://apt.raspbian-addons.org/debian/pool/).
+The entire package archive can be found [here](https://apt.raspbian-addons.org/debian/pool/).
 
 | Package Name | Package Description           | Project Homepage |
 | ------------- | ------------- | ------------- |
