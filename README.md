@@ -83,3 +83,17 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | musikcube | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ | https://github.com/clangen/musikcube |
 | n | Node version management | https://github.com/tj/n |
 | nomacs | Free image viewer | https://github.com/nomacs/nomacs |
+| notepanda | A simple cross-platform notepad. | https://github.com/ChungZH/notepanda |
+| notion-app | an enhancer/customiser for the all-in-one productivity workspace notion.so (app) | https://github.com/notion-enhancer/desktop |
+| onedriver | native Linux filesystem for Microsoft OneDrive | https://github.com/jstaf/onedriver |
+| opencv | open-source computer vision library | https://github.com/opencv/opencv |
+| openrazer | Collection of Linux drivers for Razer devices | https://github.com/openrazer/openrazer |
+| openresty | High Performance Web Platform Based on Nginx and LuaJIT | https://github.com/openresty/openresty |
+| panther-launcher | fork of Slingshot Launcher, simple program launcher | https://github.com/rastersoft/panther_launcher |
+| papirus-icon-theme | Free and open-source icon theme | https://github.com/PapirusDevelopmentTeam/papirus-icon-theme |
+| pbgopy | Copy and paste between devices | https://github.com/nakabonne/pbgopy |
+| persepolis | Download Manager with a GUI for aria2 | https://github.com/persepolisdm/persepolis |
+| piserver | Raspberry pi Server Wizard for serving a Raspbian instance to network-booting pies | https://github.com/raspberrypi/piserver |
+| prusa-slicer | gcode generator for 3d printers | https://github.com/prusa3d/PrusaSlicer |
+| python3-halo-weather | Weather app for Linux desktops | https://github.com/cijo7/Halo |
+| 
