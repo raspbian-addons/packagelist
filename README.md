@@ -96,4 +96,43 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | piserver | Raspberry pi Server Wizard for serving a Raspbian instance to network-booting pies | https://github.com/raspberrypi/piserver |
 | prusa-slicer | gcode generator for 3d printers | https://github.com/prusa3d/PrusaSlicer |
 | python3-halo-weather | Weather app for Linux desktops | https://github.com/cijo7/Halo |
-| 
+| qemu | open-source machine virtualizer and emulator | https://github.com/qemu/qemu |
+| qt5-opengl-dev | qt5 with desktop opengl on a raspberry pi | https://github.com/koendv/qt5-opengl-raspberrypi |
+| qt5-opengl-qtcreator | qt creator with opengl support | https://github.com/koendv/qt5-opengl-raspberrypi |
+| qv2ray | Cross-platform V2Ray client using Qt framework. | https://github.com/Qv2ray/Qv2ray |
+| razergenie | GUI for configuring your razer devices | https://github.com/z3ntu/RazerGenie |
+| rclone | rsync for cloud storage | https://github.com/rclone/rclone |
+| remarkable | Cross-platform markdown editor | http://remarkableapp.github.io/ |
+| rpi-imager | Raspberry Pi imaging utility | https://github.com/raspberrypi/rpi-imager |
+| shellcheck | static analytics tool for shell scripts | https://github.com/koalaman/shellcheck |
+| simplenote | Official Simplenote desktop app | https://github.com/Automattic/simplenote-electron |
+| softethervpn | cross-platform multi-protocol vpn | https://github.com/SoftEtherVPN/SoftEtherVPN |
+| sonic-pi | A new kind of musical instrument | https://github.com/sonic-pi-net/sonic-pi |
+| source-han-serif-cn | Source Han Serif is a set of OpenType/CFF Pan-CJK fonts. | https://github.com/adobe-fonts/source-han-serif |
+| stacer | Linux System optimizer and monitor | https://github.com/oguzhaninan/Stacer |
+| stackedit-nativefier | stackedit nativefier webapp | https://github.com/Itai-Nelken/Nativefier-WebApps |
+| sticky | a sticky notes app for the linux desktop | https://github.com/linuxmint/sticky |
+| stl-thumb | thumbnail generator for stl files | https://github.com/unlimitedbacon/stl-thumb |
+| stl-thumb-kde | thumbnail generator for stl files (kde version) | https://github.com/unlimitedbacon/stl-thumb |
+| swiftlang | The Swift programming language | https://github.com/apple/swift |
+| syncthing | open-source continuous file synchronization | https://github.com/syncthing/syncthing |
+| sysbench | Scriptable system benchmark tool | https://github.com/akopytov/sysbench |
+| sysmontask | Linux system monitor inspired by Windows Task Manager | https://github.com/KrispyCamel4u/SysMonTask |
+| tabby-terminal | A terminal for a more modern age | https://github.com/Eugeny/tabby |
+| teams-for-linux | Unofficial Linux client for Microsoft Teams | https://github.com/IsmaelMartinez/teams-for-linux |
+| thelounge | self-hosted web irc client | https://github.com/thelounge/thelounge |
+| theme-sh | A script which lets you set your terminal theme | https://github.com/lemnos/theme.sh |
+| thunar-sendto-clamtk | thunar-sendto-clamtk is a simple plugin to allow a right-click, context menu scan of files or folders in Thunar, XFCE's file manager. | https://github.com/dave-theunsub/thunar-sendto-clamtk |
+| tic-80 | free and open-source fantasy computer | https://github.com/nesbox/TIC-80 |
+| timeshift | System restore tool for Linux | https://github.com/teejee2008/timeshift |
+| tldr-py | python client for tldr-py | https://github.com/lord63/tldr.py |
+| touche | Desktop application to configure Touchegg | https://github.com/JoseExposito/touche |
+| tt | Terminal-based typing test | https://github.com/lemnos/tt |
+| turbowarp-desktop | TurboWarp as a desktop app | https://github.com/TurboWarp/desktop |
+| tut | TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
+| ulauncher | Linux application launcher | https://github.com/Ulauncher/Ulauncher |
+| ungoogled-chromium | google chromium, sans integration with Google | https://github.com/Eloston/ungoogled-chromium |
+| usbimager | simple GUI app for writing images to drives | https://gitlab.com/bztsrc/usbimager |
+| usermin | - | https://github.com/webmin/usermin |
+| vkmark | Vulkan benchmark utility | https://github.com/vkmark/vkmark |
+| warpinator | Share files across the LAN | https://github.com/linuxmint/warpinator |
