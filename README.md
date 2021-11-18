@@ -143,4 +143,12 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | webtorrent-desktop | web torrent streaming client | https://github.com/webtorrent/webtorrent-desktop |
 | whatsappweb-nativefier | whatsapp with nativefier | https://github.com/Itai-Nelken/Nativefier-WebApps |
 | wifi-ap-sta | start and stop a wifi access point | https://github.com/pi-top/Wi-Fi-Access-Point-and-Station-Mode |
-| windows95 | 
+| windows95 | Windows 95 in Electron | https://github.com/felixrieseberg/windows95 |
+| worldpainter | interactive map generator for Minecraft. | https://github.com/Captain-Chaos/WorldPainter |
+| xcaddy | build Caddy with plugins | https://github.com/caddyserver/xcaddy |
+| xemu | Xbox emulator | https://github.com/mborgerson/xemu |
+| xournalpp | Handwriting notetaking application software with PDF annotation support. | https://github.com/xournalpp/xournalpp |
+| xpenguins | Animate penguins in your desktop window | https://sourceforge.net/projects/xpenguins/ |
+| xsnow | Let it snow on your desktop | https://sourceforge.net/projects/xsnow/ |
+| xtensa-esp32-elf | esp32/esp32s2 gcc cross-compiler for 64-bit raspberry | https://github.com/koendv/xtensa-esp32-elf-raspberrypi |
+| yesplaymusic | Third-party cloud music player | https://github.com/qier222/YesPlayMusic |
