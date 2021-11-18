@@ -136,3 +136,11 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | usermin | - | https://github.com/webmin/usermin |
 | vkmark | Vulkan benchmark utility | https://github.com/vkmark/vkmark |
 | warpinator | Share files across the LAN | https://github.com/linuxmint/warpinator |
+| web-renderer | qt-based minimal web renderer | https://github.com/pi-top/web-renderer |
+| webcord | Privacy-focused Discord web client | https://github.com/SpacingBat3/WebCord |
+| webapp-manager | Run websites as if they were apps. | https://github.com/linuxmint/webapp-manager |
+| webmin | Powerful and flexible web-based system monitoring solution | https://github.com/webmin/webmin |
+| webtorrent-desktop | web torrent streaming client | https://github.com/webtorrent/webtorrent-desktop |
+| whatsappweb-nativefier | whatsapp with nativefier | https://github.com/Itai-Nelken/Nativefier-WebApps |
+| wifi-ap-sta | start and stop a wifi access point | https://github.com/pi-top/Wi-Fi-Access-Point-and-Station-Mode |
+| windows95 | 
