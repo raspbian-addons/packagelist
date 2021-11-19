@@ -51,7 +51,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | flameshot | Powerful yet simple screenshot software | https://github.com/flameshot-org/flameshot |
 | fonts-noto-color-emoji | color emoji font | none |
 | fonts-twemoji-svginot | emoji font | none |
-| freecad | free and open source parametric modeler | https://github.com/FreeCAD/FreeCAD |
+| freecad-buster | free and open source parametric modeler (debian buster version) | https://github.com/FreeCAD/FreeCAD |
 | freetube | Private YouTube client | https://freetubeapp.io/ |
 | fzf | command-line fuzzy finder | https://github.com/junegunn/fzf |
 | gh | GitHub's official command line tool | https://github.com/cli/cli |
