@@ -152,3 +152,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | xsnow | Let it snow on your desktop | https://sourceforge.net/projects/xsnow/ |
 | xtensa-esp32-elf | esp32/esp32s2 gcc cross-compiler for 64-bit raspberry | https://github.com/koendv/xtensa-esp32-elf-raspberrypi |
 | yesplaymusic | Third-party cloud music player | https://github.com/qier222/YesPlayMusic |
+| tetris | classic tetris for the terminal | https://github.com/k-vernooy/tetris/ |
